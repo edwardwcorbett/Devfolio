@@ -29,15 +29,13 @@ module.exports = {
     experience: [
       {
         name: 'NAVSUP Business Systems Center (DoD - Federal Civilian)',
-        description: 'Senior Software Developer - Identity Management, January 2021 - Present',
-      },
-      {
-        name: 'NAVSUP Business Systems Center (DoD - Federal Civilian)',
-        description: 'Junior Software Developer - Various App Teams, March 2017 - January 2021',
+        description: 'Senior Software Developer - Identity Management, January 2017 - Present',
+        link: 'https://www.linkedin.com/in/edwardwcorbett',
       },
       {
         name: 'Ark Safety (Part Time)',
         description: 'Software Developer/System Administrator, December 2018 - Present',
+        link: 'https://www.arksafety.com',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
