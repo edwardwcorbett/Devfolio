@@ -19,22 +19,10 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: '',
+        name: 'Devfolio',
         description:
-          '',
-        link: '',
-      },
-      {
-        name: '',
-        description:
-          '',
-        link: '',
-      },
-      {
-        name: '',
-        description:
-          '',
-        link: '',
+          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
+        link: 'https://github.com/edwardwcorbett/devfolio',
       },
     ],
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
