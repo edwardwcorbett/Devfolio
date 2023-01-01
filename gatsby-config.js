@@ -21,7 +21,7 @@ module.exports = {
       {
         name: 'edwardcorbett.com - built by Devfolio',
         description:
-          'Showcasing my ability to use git, read technical documentation, edit Javascript and install software as necessary to set up a zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
+          'Showcasing my ability to use git, read technical documentation, edit Javascript and configure domains to set up a zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
     ],
@@ -30,7 +30,7 @@ module.exports = {
       {
         name: 'NAVSUP Business Systems Center (DoD - Federal Civilian)',
         description: 'Senior Software Developer - Identity Management, January 2017 - Present',
-        link: 'https://www.linkedin.com/in/edwardwcorbett',
+        link: 'https://www.navsup.navy.mil/NAVSUP-Enterprise/NAVSUP-Business-Systems-Center/',
       },
       {
         name: 'Ark Safety (Part Time)',
