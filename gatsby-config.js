@@ -19,9 +19,9 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'edwardcorbett.com',
+        name: 'edwardcorbett.com - built by Devfolio',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
+          'Showcasing my ability to use git, read technical documentation, edit Javascript and install software as necessary to set up a zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
     ],
