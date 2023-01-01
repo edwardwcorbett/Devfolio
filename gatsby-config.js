@@ -1,23 +1,23 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://www.edwardcorbett.com`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'Edward Corbett',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `Edward Corbett | Software Developer`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Software Developer`,
     // Optional: Twitter account handle
     author: `@rfitzio`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/edwardwcorbett`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/edwardwcorbett`,
     // Content of the About Me section
-    about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
+    about: `Security focused software developer interested in technical aspects of cyber security such as code analysis and reverse engineering. Currently enrolled in "Advanced Web Attacks and Exploitation" online security training course in pursuit of the Offensive Security Web Expert (OSWE) certification.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
-    projects: [
+    /*projects: [
       {
         name: 'Devfolio',
         description:
@@ -37,22 +37,20 @@ module.exports = {
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
     ],
+    */
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
-        name: 'Acme Corp',
-        description: 'Full-Stack Developer, February 2020 - Present',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'NAVSUP Business Systems Center (DoD - Federal Civilian)',
+        description: 'Senior Software Developer - Identity Management, January 2021 - Present',
       },
       {
-        name: 'Globex Corp',
-        description: 'Full-Stack Developer, December 2017 - February 2020',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'NAVSUP Business Systems Center (DoD - Federal Civilian)',
+        description: 'Junior Software Developer - Various App Teams, March 2017 - January 2021',
       },
       {
-        name: 'Hooli',
-        description: 'Full-Stack Developer, May 2015 - December 2017',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+        name: 'Ark Safety (Part Time)',
+        description: 'Software Developer/System Administrator, December 2018 - Present',
       },
     ],
     // Optional: List your skills, they must have `name` and `description`.
@@ -60,16 +58,16 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'JavaScript (ES6+), Golang, Node.js, Express.js, React, Ruby on Rails, PHP',
+          'Java, C#/.NET, PL/SQL, Javascript, Python, PHP',
       },
       {
         name: 'Databases',
-        description: 'MongoDB, PostreSQL, MySQL',
+        description: 'Oracle, SQL Server, MySQL',
       },
       {
         name: 'Other',
         description:
-          'Docker, Amazon Web Services (AWS), CI / CD, Microservices, API design, Agile / Scrum',
+          'Docker, Ansible, API design, Agile / Scrum',
       },
     ],
   },
