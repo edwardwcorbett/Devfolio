@@ -21,7 +21,7 @@ module.exports = {
       {
         name: 'edwardcorbett.com - based on the Devfolio template',
         description:
-          'Showcasing my ability to use git, read technical documentation, edit Javascript, and configure DNS to set up a zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS.',
+          'Showcasing my ability to use git, read technical documentation, edit Javascript, and configure DNS to set up a blazing fast CI/CD personal site + blog built with GatsbyJs, TailwindCSS, Netlify, and GitHub',
         link: 'https://github.com/RyanFitzgerald/devfolio',
       },
     ],
