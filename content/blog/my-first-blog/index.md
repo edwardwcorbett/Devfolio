@@ -10,4 +10,4 @@ Interested in learning more about your health while looking cool? Check out the 
 
 I've been using it and I like it, I think that's all the convincing you need
 
-![Mountain](./mountain.jpg)
+![Mountain](./oura.jpg)
