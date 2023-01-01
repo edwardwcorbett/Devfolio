@@ -10,7 +10,7 @@ Interested in learning more about your health while looking cool? Check out the 
 
 I've been using it and I like it, I think that's all the convincing you need
 
-I think the Apple Watch is good for controlling music and checking for text messages without having to carry my phone around.
+I think the Apple Watch is good for controlling music and checking text messages without having to carry my phone around.  I also like the Apple Maps haptics.
 
 The Oura Ring tracks my heart rate more accurately and has a better battery life.  I think it really just compliments the Apple Watch than competes/replaces it.
 
