@@ -17,27 +17,26 @@ module.exports = {
     // Content of the About Me section
     about: `Security focused software developer interested in technical aspects of cyber security such as code analysis and reverse engineering. Currently enrolled in "Advanced Web Attacks and Exploitation" online security training course in pursuit of the Offensive Security Web Expert (OSWE) certification.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
-    /*projects: [
+    projects: [
       {
-        name: 'Devfolio',
+        name: '',
         description:
-          'A zero-config and blazing fast personal site + blog built with GatsbyJs and TailwindCSS',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          '',
+        link: '',
       },
       {
-        name: 'ChromeExtensionKit',
+        name: '',
         description:
-          'Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates',
-        link: 'https://chromeextensionkit.com/?ref=devfolio',
+          '',
+        link: '',
       },
       {
-        name: 'Another Cool Project',
+        name: '',
         description:
-          'Lorem ipsum dolor sit amet consectetur adipisicing elit ducimus perferendis',
-        link: 'https://github.com/RyanFitzgerald/devfolio',
+          '',
+        link: '',
       },
     ],
-    */
     // Optional: List your experience, they must have `name` and `description`. `link` is optional.
     experience: [
       {
