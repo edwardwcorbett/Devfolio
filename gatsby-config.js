@@ -52,7 +52,7 @@ module.exports = {
       {
         name: 'Other',
         description:
-          'Docker, Ansible, API design, Agile / Scrum',
+          'Docker, Ansible, API design, Enterprise Architecture, Risk Assessment, IT Policy and Planning',
       },
     ],
   },
