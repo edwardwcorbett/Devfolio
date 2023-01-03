@@ -43,7 +43,7 @@ module.exports = {
       {
         name: 'Languages & Frameworks',
         description:
-          'Java, C#/.NET, PL/SQL, Javascript, Python, PHP',
+          'Java/J2EE, C#/.NET, PL/SQL, JavaScript, Python, PHP',
       },
       {
         name: 'Databases',
