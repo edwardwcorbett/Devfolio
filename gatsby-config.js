@@ -19,9 +19,9 @@ module.exports = {
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
-        name: 'store.edwardcorbett.com - a demo of a Medusa, the #1 JavaScript ecom platform on GitHub and Gatsby, an open source static site generator.  Running on Heroku and Netlify it implements CI/CD integration with GitHub.',
+        name: 'store.edwardcorbett.com - a Medusa Gatsby experience',
         description:
-          'Showcasing my ability to configure and deploy a 100% cloud native Continuous Integration Continous Delivery (CI/CD) e-commerce application to demonstrate and storyboard the potential for amazing digital commerce experiences',
+          'Showcasing my ability to configure and deploy a 100% cloud native Continuous Integration Continous Delivery (CI/CD) e-commerce application running on Medusa, the #1 JavaScript ecom platform on GitHub and Gatsby, an open source static site generator.  With Heroku and Netlify integrations with GitHub to implement CI/CD I can easily demonstrate and storyboard the potential for amazing digital commerce experiences',
         link: 'https://store.edwardcorbett.com',
       },  
       {
