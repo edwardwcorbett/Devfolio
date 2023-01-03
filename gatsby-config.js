@@ -21,7 +21,7 @@ module.exports = {
       {
         name: 'store.edwardcorbett.com - a Medusa Gatsby experience',
         description:
-          'Showcasing my ability to configure and deploy a 100% cloud native Continuous Integration Continous Delivery (CI/CD) e-commerce application running on Medusa, the #1 JavaScript ecom platform on GitHub and Gatsby, an open source static site generator.  Heroku and Netlify integrations with GitHub implementing CI/CD make it easy to demonstrate and storyboard the potential for an amazing digital commerce experience.',
+          'Demonstrating my ability to configure and deploy a cloud native Continuous Integration Continous Delivery (CI/CD) application running on Medusa, the #1 JavaScript ecom platform on GitHub and Gatsby, an open source static site generator.  Heroku and Netlify integration with GitHub provide a seamless CI/CD experience and make it easy to demonstrate and storyboard the potential for an amazing digital commerce experience.',
         link: 'https://store.edwardcorbett.com',
       },  
       {
