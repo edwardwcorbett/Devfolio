@@ -5,7 +5,7 @@ description: 'My most played music 2010 - present'
 ---
 A lot of these songs are only available on SoundCloud which is why I opted for the embedded SoundCloud player.
 
-Best played on Brave browser or with the uBlock Origin Chrome extenstion installed: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
+Best played on Brave browser or with the uBlock Origin Chrome extenstion installed (so there's no ads): https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
 
 ## 🔊♪🎵♫🎶♬♩ 
 https://soundcloud.com/edwardwcorbett/sets/the-unskippables?si=cb56b913058948b69028047c251a1c96&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
