@@ -127,7 +127,14 @@ module.exports = {
       resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
-          "gatsby-remark-embed-soundcloud"
+          {resolve: "gatsby-remark-embed-soundcloud",
+           options: {
+              width: 800, // default is "100%"
+              height: 500, // default is 300
+              color: "#ff00ff", // default is #ff5500
+              autoplay: true, // default is false
+          }
+          } 
         ]
       }
     },
