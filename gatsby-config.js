@@ -123,5 +123,13 @@ module.exports = {
         icon: `src/images/icon.png`,
       },
     },
+    {
+      resolve: "gatsby-transformer-remark",
+      options: {
+        plugins: [
+          "gatsby-remark-embed-soundcloud"
+        ]
+      }
+    },
   ],
 };
