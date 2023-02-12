@@ -1,7 +1,7 @@
 ---
-title: The Unskippables - A Music Playlist
+title: The Unskippables - a music playlist
 date: '2023-02-12T12:00:00.00Z'
-description: 'My Most Played Music 2010 - Present'
+description: 'My most played music 2010 - present'
 ---
 Best played on Brave browser or with the uBlock origin Chrome extenstion installed: https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
 
