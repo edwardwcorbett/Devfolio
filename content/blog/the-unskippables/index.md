@@ -1,5 +1,5 @@
 ---
-title: The Unskippables - a music playlist
+title: The Unskippables - A Music Playlist
 date: '2023-02-12T12:00:00.00Z'
 description: 'My most played music 2010 - present'
 ---
